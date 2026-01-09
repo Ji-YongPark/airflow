@@ -99,6 +99,8 @@ analytics-python==1.2.9
 annotated-types==0.7.0
 ansicolors==1.1.8
 anyio==4.10.0
+# apache-airflow 제약 추가
+apache-airflow==3.0.0
 # apache-airflow-core 제약 추가
 apache-airflow-core==3.0.0
 apache-airflow-providers-airbyte==5.2.3
@@ -857,3 +859,4 @@ zipp==3.23.0
 zope.event==5.1.1
 zope.interface==7.2
 zstandard==0.24.0
+
