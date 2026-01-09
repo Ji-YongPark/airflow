@@ -99,6 +99,8 @@ analytics-python==1.2.9
 annotated-types==0.7.0
 ansicolors==1.1.8
 anyio==4.10.0
+# apache-airflow-core 제약 추가
+apache-airflow-core==3.0.0
 apache-airflow-providers-airbyte==5.2.3
 apache-airflow-providers-alibaba==3.2.2
 apache-airflow-providers-amazon==9.12.0
@@ -707,6 +709,8 @@ s3fs==2025.12.0
 #s3transfer>=0.16.0
 s3transfer>=0.13.0
 sagemaker_studio==1.0.21
+# sagemaker-core 제약 추가
+sagemaker-core==2.0.1
 scikit-learn==1.7.1
 scipy==1.16.1
 scramp==1.4.6
